@@ -1,6 +1,6 @@
-site_name: Your Site Name
-site_description: Your site description
-site_url: https://yourdomain.com
+site_name: Olivier DEPIN
+site_description: Olivier DEPIN personnal website
+site_url: https://olivierdepin.com
 
 nav:
   - Home:
@@ -12,6 +12,7 @@ nav:
       - portfolio/projects/project-2.md
   - Blog:
     - blog/index.md 
+  - Book a free intro call: https://cal.com/odepin/introduction-call
 
 theme:
   name: material
@@ -45,20 +46,20 @@ theme:
     text: Roboto
     code: Roboto Mono
   icon:
-    logo: material/slash-forward-box
-  favicon: assets/favicon.png
+    logo: material/hub
+  favicon: assets/logo.jpg
 
 extra:
-  generator: true
+  generator: false
   social:
     - icon: fontawesome/solid/building
-      link: https://company.com
+      link: https://olivierdepin.com
     - icon: fontawesome/brands/github
-      link: https://github.com/
+      link: https://github.com/odepin
     - icon: fontawesome/brands/youtube
-      link: https://youtube.com/
+      link: https://www.youtube.com/@olivierdepin
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com
+      link: https://linkedin.com/in/olivier-depin-1121815
   analytics:
     # provider: google
     # property: G-W9Y130NXVZ
@@ -75,6 +76,7 @@ plugins:
       blog_dir: blog
       authors_file: "{blog}/.authors.yml"
       categories: true
+  - privacy    
 
 markdown_extensions:
   - attr_list
@@ -102,4 +104,4 @@ extra_files:
   - docs/robots.txt
 
 copyright: |
-  &copy; 2024 <a href="https://www.linkedin.com" target="_blank" rel="noopener">John Doe</a>. All rights reserved.
+  &copy; 2024 <a href="https://linkedin.com/in/olivier-depin-1121815" target="_blank" rel="noopener">Olivier DEPIN</a>. All rights reserved.

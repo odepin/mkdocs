@@ -1,59 +1,57 @@
 ---
 title: About Me
-description: Explore AI, data science, and entrepreneurship with Dave Ebbelaar. Learn about Datalumina, AI tutorials, freelancing, and innovative AI solutions for businesses.
-keywords: Dave Ebbelaar, AI entrepreneur, Datalumina, AI tutorials, Data Freelancer, GenAI Launchpad
-author: Dave Ebbelaar
-canonical_url: https://www.daveebbelaar.com/
+description: Explore AI, GenAI, automation, and entrepreneurship with Olivier DEPIN. Learn about innovative AI and GenAI solutions for businesses.
+keywords: Olivier DEPIN, AI strategy Freelancer, Entrepreneur
+author: Olivier DEPIN
+canonical_url: https://www.olivierdepin.com/
 ---
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
-  "name": "Dave Ebbelaar",
-  "url": "https://www.daveebbelaar.com/",
-  "image": "https://avatars.githubusercontent.com/u/34709402?v=4",
+  "name": "Olivier DEPIN",
+  "url": "https://www.olivierdepin.com/",
+  "image": "https://avatars.githubusercontent.com/u/223860636",
   "sameAs": [
-    "https://www.youtube.com/channel/UCn8ujwUInbJkBhffxqAPBVQ",
-    "https://www.youtube.com/@daveebbelaar",
-    "https://www.linkedin.com/in/daveebbelaar/",
-    "https://github.com/daveebbelaar"
-    "https://www.skool.com/@daveebbelaar"
+    "https://www.youtube.com/@olivierdepin",
+    "https://linkedin.com/in/olivier-depin-1121815",
+    "https://github.com/odepin"
   ],
-  "jobTitle": "Founder & CEO",
+  "jobTitle": "Consultant",
   "worksFor": {
-    "@type": "Organization",
-    "name": "Datalumina",
-    "url": "https://www.datalumina.com/"
+    "@type": "Self-employed",
+    "name": "Olivier DEPIN",
+    "url": "https://linkedin.com/in/olivier-depin-1121815"
   },
 }
 </script>
 
-<div class="hero-section grid-container" markdown>
+<div class="grid-container" markdown>
 
 <div class="text-intro-grid" markdown>
 
-# Turn AI complexity into your competitive advantage
+# Hi, I am Olivier - I turn AI concepts into measurable business value
 
-### I have 5+ years experience doing just that
+### With 10+ years of AI and strategy expertise across various industries
 
-- Are you struggling to keep up with the rapid pace of AI innovation?
+- Struggling to align AI initiatives with your core business objectives?
 
-- Do you need help translating AI hype into real business results?
+- Unsure how to turn AI potential into real ROI and innovation?
 
-- Want to implement AI effectively before competitors get ahead?
+- Want to stay ahead by adopting AI before competitors do?
 
-- Looking for technical expertise and a clear roadmap for AI solutions?
+- Need a clear, tailored roadmap for successful AI transformation?
 
-- Need someone who understands both technical and business perspectives?
+- Looking for a strategist who bridges business vision and technical execution?
 
-[Book Free Intro Call :material-arrow-top-right:](https://www.calendly.com){ .md-button .md-button--primary }
+[Book a Free AI Strategy Consultation:material-arrow-top-right:](https://cal.com/odepin/introduction-call){ .md-button .md-button--primary }
 
 </div>
 
 <div class="profile-image-grid" markdown>
 
-![Dave Ebbelaar, AI Entrepreneur and Educator](assets/@daveebbelaar.jpg){ .profile-image alt="Portrait of Dave Ebbelaar, AI entrepreneur and educator" }
+![Olivier DEPIN, AI Consultant and Entrepreneur](assets/@olivierdepin.png){ .profile-image alt="Portrait of Olivier DEPIN, AI Consultant and Entrepreneur" }
 
 </div>
 
@@ -61,39 +59,39 @@ canonical_url: https://www.daveebbelaar.com/
 
 ## About me
 
-Hi! I'm Dave, an entrepreneur and educator from the Netherlands. I work with technical professionals facing the overwhelming pace of AI innovation and businesses struggling to translate AI hype into competitive advantage. Whether you're a developer watching your skills becoming obsolete or a company unsure how to implement AI effectively—the challenge is the same: how to effectively use this technology before your competitors do.
+Hi! I'm Olivier, an consultant and entrepreneur from France. I help SaaS and digital enterprises unlock the full potential of AI by creating tailored AI Transformation Roadmaps that turn early experimentation into measurable business value. By aligning AI initiatives directly with core objectives, I enable companies to boost ROI, accelerate innovation, and gain a competitive edge..
 
-My artificial intelligence journey spans over a decade, with bachelor's and master's degrees in the field and experience building custom data and AI systems across utilities, government, and e-commerce sectors. My tech stack includes Python, PostgreSQL, ML, FastAPI, OpenAI, Claude, Azure, vector databases, RAG, and LLM integration for enterprise applications.
+With over a decade using artificial intelligence, I hold multiple certifications and hands-on experience implementing AI systems across finance, media, and e-commerce. My expertise includes Python, PostgreSQL, machine learning, FastAPI, OpenAI, Claude, Azure, vector databases, RAG, and LLM integration.
 
-## Why work with me?
+## Why me?
 
-Here's what sets me apart and how I can help drive value for your business:
+What makes me unique — and how I help businesses unlock measurable value:
 
 <div class="grid cards" markdown>
 
--   :fontawesome-solid-building-user:{ .lg .middle } Proven Business Experience
+-   :fontawesome-solid-building-user:{ .lg .middle } Real-World Business Leader
 
     ---
 
-    As the founder of Datalumina, I bring entrepreneurial insight to every project. I understand both the technical and business sides of AI implementation, ensuring solutions that deliver real ROI and align with your business goals.
+    As an experienced founder, I combine entrepreneurial perspective with AI expertise, bridging technical implementation and business strategy to deliver solutions that drive ROI and align with core objectives.
 
--   :material-youtube:{ .lg .middle } Educator & Communicator
-
-    ---
-
-    My experience as a content creator and educator means I can break down complex technical concepts into clear, actionable insights. You'll always understand the 'why' behind technical decisions and get clear progress updates.
-
--   :material-school:{ .lg .middle } Industry Expert
+-   :material-youtube:{ .lg .middle } Clear Guidance, Effective Communication
 
     ---
 
-    With over a decade in AI and data science, including work across utilities, government, and e-commerce sectors, I bring battle-tested expertise to your projects. My solutions are built on real-world experience, not just theory.
+    By converting business needs into technical solutions, I make complex AI concepts easy to understand. You’ll always know the 'why' behind decisions and get clear, consistent updates on progress.
 
--   :material-rocket:{ .lg .middle } Fast Implementation
+-   :material-school:{ .lg .middle } Seasoned Industry Specialist
 
     ---
 
-    I specialize in rapid development and deployment of AI solutions. Using modern tools and proven frameworks, I can help you move from concept to production faster, giving you a competitive edge in today's fast-paced market.
+    With more than a decade in AI, IT, and strategy across telecoms, innovation, and e-commerce, I bring proven, hands-on expertise to every project. My solutions are grounded in real-world results, not theory.
+
+-   :material-rocket:{ .lg .middle } Efficient AI strategy
+
+    ---
+
+    I specialize in designing and executing AI implementation roadmaps. Leveraging modern tools and proven frameworks, I guide projects from concept to production efficiently, helping you gain a competitive edge.
 
 </div>
 
@@ -101,69 +99,45 @@ Here's what sets me apart and how I can help drive value for your business:
 
 <div class="grid cards testimonials" markdown>
 
--   :material-format-quote-open:{ .lg .middle } Adrian Dragomir
+-   :material-format-quote-open:{ .lg .middle } Jennifer Williams
     
-    Founder at Sferal
+    Founder at Cuddle Clones
 
     ---
 
-    "Dave is a true professional and my collaboration with him has been flawless. **He took his time and spent 3 days with me and my team in Mamaia, Romania where he was a guest for 3 sessions of my podcast Waves of AI**. He is one of the most competent people I know that has a real understanding of how AI works and how to integrate it quickly in your company."
-
--   :material-format-quote-open:{ .lg .middle } Barbara van den Bosch
-    
-    Founder at Viverve
-
-    ---
-
-    "Together with Datalumina, we developed a tailor-made program where I, as a school leader, can now bring together vast amounts of information in one place and automate key tasks. **Beyond the tremendous quality improvement for our organization, working with Datalumina was an extremely pleasant experience**."
-
--   :material-format-quote-open:{ .lg .middle } Rene Raaphorst
-    
-    Founder at Crypto Insiders
-
-    ---
-
-    "My experience with Datalumina has been excellent. **They think along with you every step of the way, from proof of concept to a fully functional product**. I was amazed by the quality of the results and found the collaboration very enjoyable. I highly recommend Dave and Datalumina to everyone!"
-
--   :material-format-quote-open:{ .lg .middle } Kelsen
-    
-    Founder at Datavisum
-
-    ---
-
-    "I am thankful for having come across Dave and Data Freelancer, it was one of the best investment decisions I've made in 2024. **From effective ways to create inbound marketing strategies using social media, through solution architecture design to address all kinds of business challenges**, you will extract a great deal of value from diverse perspectives."
+    "Olivier is great to work with! He's organized, responsive, and does great work for us in the 3D modeling space."
 
 </div>
 
 ## Frequently asked questions
 
-??? note "How quickly can you start working on my project?"
-    I can typically begin new projects within 1-2 weeks of contract signing. For urgent matters, I maintain some flexibility for rapid response situations and can potentially start sooner - just let me know your timeline during our initial consultation.
+??? note "What’s your earliest availability to begin my project?"
+    I usually begin new projects within 1–2 weeks of contract signing. For urgent needs, I offer flexibility and may be able to start sooner—simply share your timeline during our initial consultation.
 
-??? note "Do you require a minimum project size or commitment?"
-    While I can accommodate projects of any size, I find that engagements of at least 20 hours allow for meaningful impact. This gives us enough time to understand your data, implement solutions, and deliver actionable results. We can start with a small pilot project to ensure we're a good fit.
+??? note "Do you have a minimum project commitment?"
+    I accept projects of any size, though engagements of 20 hours or more usually deliver the best results. We can also start with a pilot project to confirm the fit.
 
-??? note "What industries do you have experience in?"
-    I've successfully delivered projects across e-commerce, manufacturing, healthcare, and financial services. While I specialize in data science fundamentals that apply across sectors, I particularly excel in projects involving customer behavior analysis, process optimization, and predictive modeling.
+??? note "Could you share the industries where you’ve gained experience?"
+    I’ve delivered successful outcomes across e-commerce, telecoms, innovation, logistics, design, and financial services. My expertise is especially strong in customer needs analysis, organizational strategy, process optimization, and transformation planning.
 
-??? note "How do you handle data security and confidentiality?"
-    I take data security extremely seriously. I sign comprehensive NDAs before starting any project, use enterprise-grade encryption for all data transfers, and follow industry best practices for data handling. I can also work within your existing security infrastructure and policies.
+??? note "How will my data be kept secure and confidential?"
+    I treat data security with the highest importance—signing NDAs at project outset, applying enterprise-grade encryption, and adhering to recognized best practices. Where needed, I seamlessly integrate into your organization’s security framework and compliance standards.
 
-??? note "What's your pricing structure?"
-    I offer both project-based and retainer pricing models. Project fees are based on scope, complexity, and value delivered rather than hours worked. For ongoing support, I offer flexible retainer packages. Let's discuss your specific needs during our consultation to determine the most cost-effective approach.
+??? note "Could you outline your pricing model?"
+    My pricing models include both project-based and retainer options. Fees are aligned with scope, complexity, and business value delivered—not just hours worked. For continued collaboration, I provide tailored retainer packages. During consultation, we’ll define the most effective structure for your needs.
 
-??? note "How do you communicate progress and results?"
-    I maintain clear communication through weekly progress updates and regular check-in meetings. You'll receive detailed documentation of all analyses, findings, and recommendations. For ongoing projects, I provide interactive dashboards and reports that allow you to track progress and results in real-time.
+??? note "How do you report progress and results?"
+    I keep you informed with weekly updates, regular check-ins, and detailed documentation. For ongoing work, interactive dashboards allow you to track progress and results in real time.
 
 
 <div class="grid cards" style="margin-top: 3rem" markdown>
 
--   :material-coffee:{ .lg .middle } Let's have a virtual coffee together!
+-   :material-coffee:{ .lg .middle } Let’s connect and discuss you project!
 
     ---
     
-    Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your AI challenges and explore how we can work together.
+    Curious if we’re a good fit? Let’s chat. Schedule a complimentary 30-minute strategy session to discuss your AI challenges and explore potential collaboration.
 
-    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+    [Book Free Intro Call :material-arrow-top-right:](https://cal.com/odepin/introduction-call){ .md-button .md-button--primary }
 
 </div>
