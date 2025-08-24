@@ -9,16 +9,22 @@ Explore my AI projects, each highlighting how I create meaningful solutions for 
 
 <div class="grid cards" markdown>
 
--   [AI Customer Care Bot for Dev X](projects/project-1.md)
+-   [AI Roadmap](projects/ai-roadmap.md)
 
     ---
 
-    An AI-powered chatbot solution for Dev X that enables customer service transformation, featuring Slack integration and sub-3 second response times. Built with OpenAI, Pinecone, and Azure cloud infrastructure to achieve 100% accuracy on initial datasets.
+    The case study shows how a mid-sized e-commerce company successfully transformed their project management capabilities using AI and strategic planning. By following Gartner's structured 7-workstream approach and focusing on measurable business outcomes, significant improvements in project delivery, resource utilization, and strategic alignment were achieved.
 
--   [Enterprise Chatbot for Company Y](projects/project-2.md)
+-   [Financial Analyst Assistant](projects/edge-financial-agent.md)
 
     ---
 
-    A private ChatGPT-like tool for the Company Y that revolutionizes mobility data analysis by combining structured SQL data with unstructured policy documents. Built with OpenAI and modern cloud architecture for comprehensive public sector policy evaluation.
+    This case study details the development and deployment of an AI-powered Financial Analyst Assistant built using OpenAI's Agents SDK. The system orchestrates multiple specialized agents to fetch live financial data, analyze market trends, and deliver actionable investment insights to retail investors through an intelligent multi-agent workflow.
+
+-   [Enterprise Chatbot](projects/entreprise-chatbot.md)
+
+    ---
+
+    This case study details the development and deployment of an AI-powered chatbot solution that combined structured SQL data with unstructured policy documents. The project demonstrates end-to-end implementation of enterprise-grade conversational AI systems using Azure AI Foundry architecture.
 
 </div>

@@ -132,7 +132,7 @@ What makes me unique — and how I help businesses unlock measurable value:
 
 <div class="grid cards" style="margin-top: 3rem" markdown>
 
--   :material-coffee:{ .lg .middle } Let’s connect and discuss you project!
+-   :material-video-box:{ .lg .middle } Let’s connect and discuss you project!
 
     ---
     

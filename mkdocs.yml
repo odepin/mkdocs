@@ -8,8 +8,9 @@ nav:
   - Case Studies:
     - Overview: portfolio/index.md
     - Projects:
-      - portfolio/projects/project-1.md
-      - portfolio/projects/project-2.md
+      - portfolio/projects/ai-roadmap.md
+      - portfolio/projects/edge-financial-agent.md
+      - portfolio/projects/entreprise-chatbot.md
   - Blog:
     - blog/index.md 
   - Book a free intro call: https://cal.com/odepin/introduction-call
@@ -96,6 +97,7 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - def_list
   - pymdownx.keys
+  - tables
 
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js
