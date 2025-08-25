@@ -5,7 +5,7 @@ description: How Olivier DEPIN helped businesses integrate AI and data into thei
 
 # Featured Projects
 
-Explore my AI projects, each highlighting how I create meaningful solutions for real business problems.
+Explore my AI use cases, each highlighting how I create meaningful solutions for real business problems.
 
 <div class="grid cards" markdown>
 

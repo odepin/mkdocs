@@ -20,7 +20,7 @@ description: Details the development and deployment of an AI-powered Financial A
 
 This case study illustrates how the system has revolutionized retail investors’ access to and use of financial analysis, providing them with institutional-grade capabilities.
 
-## Challenge
+## Challenges
 
 ***Business Challenge***  
 
@@ -122,7 +122,7 @@ Future Roadmap
 
 - **DeFi, Fixed Income, Derivatives and ESG Integration**: Extend capabilities into analysis
 - **Real-Time Strategy Execution**: Direct integration with brokerage APIs for automated trading
-- **International Markets**: Extend to Latam, Afircan and Asian equity markets
+- **International Markets**: Extend to Latam, African and Asian equity markets
 - **Institutional Features**: Scale to serve institutional investors and financial advisors
 
 ## Tech Stack

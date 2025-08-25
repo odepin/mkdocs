@@ -10,7 +10,7 @@ description: Development of a private ChatGPT-like tool to analyze mobility data
     **Industry**: Software Development  
     **Challenge**: Complex mobility data analysis across fragmented systems  
     **Timeline**: 3 monthss  
-    **Team**: 2 Engineers (1 AI Engineer, 1 ML Engineer)
+    **Team**: 2 Engineers (1 AI Engineer, 1 ML Engineer)   
     **Impact Metrics**:   
 
     --Quantitative Metrics
@@ -29,7 +29,7 @@ description: Development of a private ChatGPT-like tool to analyze mobility data
 
 This case study is an AI initiative offering a private ChatGPT-style tool that streamlines mobility data analysis and drives digital innovation in public sector policy evaluation.
 
-## Challenge
+## Challenges
 
 ***Business Challenge***  
 

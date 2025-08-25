@@ -59,7 +59,7 @@ canonical_url: https://www.olivierdepin.com/
 
 ## About me
 
-Hi! I'm Olivier, an consultant and entrepreneur from France. I help SaaS and digital enterprises unlock the full potential of AI by creating tailored AI Transformation Roadmaps that turn early experimentation into measurable business value. By aligning AI initiatives directly with core objectives, I enable companies to boost ROI, accelerate innovation, and gain a competitive edge..
+Hi! I'm Olivier, an consultant and entrepreneur from France. I help SaaS and digital enterprises unlock the full potential of AI by creating tailored AI Transformation Roadmaps that turn early experimentation into measurable business value. By aligning AI initiatives directly with core objectives, I enable companies to boost ROI, accelerate innovation, and gain a competitive edge.
 
 With over a decade using artificial intelligence, I hold multiple certifications and hands-on experience implementing AI systems across finance, media, and e-commerce. My expertise includes Python, PostgreSQL, machine learning, FastAPI, OpenAI, Claude, Azure, vector databases, RAG, and LLM integration.
 
@@ -105,7 +105,7 @@ What makes me unique — and how I help businesses unlock measurable value:
 
     ---
 
-    "Olivier is great to work with! He's organized, responsive, and does great work for us in the 3D modeling space."
+    "Olivier is great to work with! He's organized, responsive, and does great work for us."
 
 </div>
 
